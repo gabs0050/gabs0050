@@ -1,11 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2da4cc&height=120&section=header"/>
 
-<br>
-
-<div align='center'>
-    <img src="https://media1.tenor.com/m/FcrELU33g3wAAAAd/ssssu.gif" alt="GIF" width='95%'>
-</div>  
+<br>  
 
 <br>
 <br>
